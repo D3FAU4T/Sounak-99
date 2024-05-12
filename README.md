@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Sounak Basak</h1>
 <h3 align="center">A BCA student from INDIA Passionate About AI/WEB DEVELOPMENT</h3>
